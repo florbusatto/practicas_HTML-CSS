@@ -1,0 +1,40 @@
+* {
+  padding: 0 auto;  
+  margin: 0 auto;   
+  width: auto;  
+}   
+body { 
+		background-image: url(../img/colores.jpg);	
+		width: 100%;	
+		height: 100%;			
+}
+
+header { 
+		width: 80%;	
+		height: 100px;
+		background-color: #f44336a8;	
+		margin: 0 auto;	
+		opacity: 0.8; 
+    padding: 50px;  
+    margin-top: 30px;}	
+
+p { color: white;   
+    text-align: center; 
+    font-weight: bold;  
+    font-size: 4.3em; 
+    }
+
+.galeria { 
+        margin: 0 auto;
+        align-content: center;  
+        padding: 50px;  
+}
+.slide {      
+          padding: 0 auto;  
+          margin: 0 auto; 
+          width: 50%;  
+          height: 340px;  
+          background-attachment: fixed; 
+          background-position: center;  
+          opacity: 1.5;  
+} 
